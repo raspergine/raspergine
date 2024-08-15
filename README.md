@@ -9,6 +9,8 @@
 
 [ I live inside your device. Treat me as a human being ! ]
 
+[ Things in my repository are for future joke-arg ! ]
+
 <!---
 How is your day today?
 --->
